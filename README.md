@@ -1,1 +1,1 @@
-# OurStore
+# OurStore for commerce
